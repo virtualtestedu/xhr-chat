@@ -1,4 +1,4 @@
-var nickname = "";   //global variable for nickname
+var nickname= "";   //global variable for nickname
 var chatwith = "";   //global variable for stranger nickname (chatwith)
 var time = 15000;   //timeout in ms, same as server variable
 var get_msg_last_time = 0;   //last time (millis()) of getting new message - used for handling server fall or unexpected erros
